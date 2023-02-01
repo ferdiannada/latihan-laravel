@@ -10,6 +10,7 @@
 
 <body>
     <h1>ini halaman about</h1>
+    sebagai contoh
 </body>
 
 </html>
